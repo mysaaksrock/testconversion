@@ -81,6 +81,7 @@
     "stylelint": "^8.1.1",
     "stylelint-config-standard": "^17.0.0",
     "stylelint-processor-styled-components": "^1.0.0",
+    "typescript": "^5.2.2",
     "webpack": "^3.5.5",
     "webpack-dashboard": "^1.0.0-5",
     "webpack-dev-server": "^2.7.1",
